@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alphabets_1</key>
+	<string>A</string>
+	<key>Alphabets_2</key>
+	<string>B</string>
+	<key>Alphabets_3</key>
+	<string>C</string>
+	<key>Alphabets_4</key>
+	<string>D</string>
+	<key>Alphabets_5</key>
+	<string>E</string>
+	<key>Alphabets_6</key>
+	<string>F</string>
+	<key>Alphabets_7</key>
+	<string>G</string>
+	<key>Alphabets_8</key>
+	<string>H</string>
+	<key>Alphabets_9</key>
+	<string>I</string>
+	<key>Alphabets_10</key>
+	<string>J</string>
+	<key>Alphabets_11</key>
+	<string>K</string>
+	<key>Alphabets_12</key>
+	<string>L</string>
+	<key>Alphabets_13</key>
+	<string>M</string>
+	<key>Alphabets_14</key>
+	<string>N</string>
+	<key>Alphabets_15</key>
+	<string>O</string>
+	<key>Alphabets_16</key>
+	<string>P</string>
+	<key>Alphabets_17</key>
+	<string>Q</string>
+	<key>Alphabets_18</key>
+	<string>R</string>
+	<key>Alphabets_19</key>
+	<string>S</string>
+	<key>Alphabets_20</key>
+	<string>T</string>
+	<key>Alphabets_21</key>
+	<string>U</string>
+	<key>Alphabets_22</key>
+	<string>V</string>
+	<key>Alphabets_23</key>
+	<string>W</string>
+	<key>Alphabets_24</key>
+	<string>X</string>
+	<key>Alphabets_25</key>
+	<string>Y</string>
+	<key>Alphabets_26</key>
+	<string>Z</string>
+</dict>
+</plist>

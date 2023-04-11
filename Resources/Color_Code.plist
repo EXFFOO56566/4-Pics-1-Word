@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>R</key>
+	<integer>255</integer>
+	<key>G</key>
+	<integer>255</integer>
+	<key>B</key>
+	<integer>255</integer>
+	<key>Font_Size</key>
+	<integer>45</integer>
+	<key>Total_Coin</key>
+	<integer>200</integer>
+	<key>Show_ADS</key>
+	<integer>100</integer>
+	<key>Hint_Use_1</key>
+	<integer>30</integer>
+	<key>Hint_Use_2</key>
+	<integer>50</integer>
+	<key>Comp_Coin</key>
+	<integer>10</integer>
+</dict>
+</plist>
